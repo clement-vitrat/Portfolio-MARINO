@@ -6,8 +6,8 @@ function ouvrirCarte(ville) {
 }
 
 // Fonction pour tourner l'image d'elle
-var image1Src = "../img/Louane_SIMS.jpg";
-var image2Src = "../img/Louane.jpg";
+var image1Src = "img/Louane_SIMS.jpg";
+var image2Src = "img/Louane.jpg";
 var imageSIMS = document.getElementById("imageSIMS");
 
 function changerImage() {
